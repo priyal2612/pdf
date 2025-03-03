@@ -1,0 +1,4 @@
+1. pymupdf (fitz) - For extracting text from PDFs
+2. pdfplumber - For extracting tables from PDFs
+3. pandas - For handling tabular data
+4. openpyxl - For writing data to Excel
